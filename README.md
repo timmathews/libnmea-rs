@@ -8,7 +8,7 @@ This is a reverse engineering effort. Error reports are appreciated.
 
 ## See Also
 
-* (NMEA)[http://nmea.org]
-* (NMEA Revealed)[http://catb.org/gpsd/NMEA.html]
-* (CANboat)[https://github.com/canboat]
-* (Argo)[https://github.com/timmathews/argo]
+* [NMEA](http://nmea.org)
+* [NMEA Revealed](http://catb.org/gpsd/NMEA.html)
+* [CANboat](https://github.com/canboat)
+* [Argo](https://github.com/timmathews/argo)
